@@ -1,5 +1,5 @@
 # simple-web-app
-FINISHED
+FINISHED <br>
 Simple web application using spring framework with spring boot.
 
 Web application created with Spring 5 framework and Spring Boot 2.
